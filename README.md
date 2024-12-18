@@ -1,2 +1,2 @@
 # CCNA-Labs
-Labs that I've completed to study for the CCNA.
+Some of my favorite labs that I've completed while studying for the CCNA.
